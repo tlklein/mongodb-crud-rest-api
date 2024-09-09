@@ -1,12 +1,5 @@
 # Data Platform Project
 
-The current iteration is based on development done by:
-* Joanna Macedo, Trinity Klein, and Maria Abejide in Spring 2024
-* Jeremy Griffith and Edwin Charly in Spring of 2023
-* Elliot Farmer Garcia, Agatha	Molski and Chris Blanco in Fall of 2022.
-
-## Requirements
-
 This project uses NodeJS, VUEJS and MongoDB. This is a summary of the project description. 
 
 Project Goal: The project aims to expand an existing web application by adding new features and improving documentation. ​ The application follows a MEVN stack architecture (MongoDB, Express, VueJS, Node) and is a prototype implementation. ​
@@ -23,7 +16,13 @@ Sprints:
 - Sprint 1: Create a Functional Specification Document 
 - Sprint 2: Implement new features in the frontend using VueJS 
 - Sprint 3: Expand the backend API, document the API, and create a presentation 
-- Sprint 4: Peer evaluation of classmates' projects 
+- Sprint 4: Peer evaluation of classmates' projects
+
+## Team Members
+The current iteration is based on development done by:
+* Joanna Macedo, Trinity Klein, and Maria Abejide in Spring 2024
+* Jeremy Griffith and Edwin Charly in Spring of 2023
+* Elliot Farmer Garcia, Agatha	Molski and Chris Blanco in Fall of 2022.
 
 
 # Data Platform Project Setup
