@@ -1,7 +1,7 @@
 # Data Platform Project
 
 The current iteration is based on development done by:
-* Joanna Macedo Trinity Klein and Maria Abejide in Spring 2024
+* Joanna Macedo, Trinity Klein, and Maria Abejide in Spring 2024
 * Jeremy Griffith and Edwin Charly in Spring of 2023
 * Elliot Farmer Garcia, Agatha	Molski and Chris Blanco in Fall of 2022.
 
