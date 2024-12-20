@@ -1,3 +1,5 @@
+![banner](https://cdn.prod.website-files.com/60ff451f4874316baf91d00d/640801740194ae4d1c929104_Benefits%20of%20Modern%20Data%20Platform%20-%20Blogpost%20-%201000x500.png)
+
 # Data Platform Project
 
 This is a web application development project completed as part of the CIS 4339 course. The project focuses on enhancing an existing application used by a Houston-area non-profit organization to improve its operations, resource planning, and user experience.
@@ -46,8 +48,13 @@ The current iteration is based on development done by:
 * Jeremy Griffith and Edwin Charly in Spring of 2023
 * Elliot Farmer Garcia, Agatha	Molski, and Chris Blanco in the Fall of 2022.
 
+## Getting Started
 
-## Data Platform Project Setup
+### Data Platform Project Setup
+
+### Technologies
+- Familiarity with Vue.js, especially the Composition API.
+- Understanding of full-stack development with MEVN.
 
 ### Backend Node Application
 ```
@@ -61,15 +68,6 @@ cd frontend
 ```
 Follow instructions in frontend README for setup and running as a local instance.
 
-
-## Getting Started
-
-1. **Technologies**:
-   - Familiarity with Vue.js, especially the Composition API.
-   - Understanding of full-stack development with MEVN.
-2. **Setup**:
-   - Follow instructions in frontend README for setup and running as a local instance.
-   - Follow instructions in the backend README for setup and running as a local instance.
 
 ## About the Project
 
