@@ -8,6 +8,8 @@ This is a web application development project completed as part of the CIS 4339 
 The application, originally developed by previous students, is a data platform used by Community Health Workers (CHWs) to organize events, collect client data, and facilitate sign-ups for various services. This project expands upon the existing codebase by introducing new features and refining the application for better maintainability and usability.
 Key technologies: **MEVN Stack** (MongoDB, Express, Vue.js, Node.js).
 
+---
+
 ## Scope and Features
 
 ### Key Enhancements
@@ -24,6 +26,8 @@ Key technologies: **MEVN Stack** (MongoDB, Express, Vue.js, Node.js).
 4. **Dashboard Enhancement with Visualization**:
    - Add Pie or Doughnut charts to visualize client distribution by zip code.
    - Dynamically fetch and display data from API endpoints.
+     
+---
 
 ## Deliverables
 
@@ -47,6 +51,8 @@ The current iteration is based on development done by:
 * Joanna Macedo, Trinity Klein, and Maria Abejide in Spring 2024
 * Jeremy Griffith and Edwin Charly in Spring of 2023
 * Elliot Farmer Garcia, Agatha	Molski, and Chris Blanco in the Fall of 2022.
+  
+---
 
 ## Getting Started
 
