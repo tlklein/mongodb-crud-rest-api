@@ -72,7 +72,7 @@ Follow instructions in frontend README for setup and running as a local instance
 
 ## About the Project
 
-This project was completed collaboratively by **Joanna Macedo**, **Trinity Klein**, and **Maria Abejide** for the CIS 4339 course at the University of Houston under the guidance of **Professor Xuqing Wu**.
+This project was completed collaboratively by **Joanna Macedo**, **Trinity Klein**, and **Maria Abejide** for the **CIS 4339 Enterprise Applications Development** course at the University of Houston under the guidance of **Professor Xuqing Wu**.
 
 ---
 
