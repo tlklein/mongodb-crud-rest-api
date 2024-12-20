@@ -1,6 +1,6 @@
 ![banner](https://cdn.prod.website-files.com/60ff451f4874316baf91d00d/640801740194ae4d1c929104_Benefits%20of%20Modern%20Data%20Platform%20-%20Blogpost%20-%201000x500.png)
 
-# Data Platform Project
+# MongoDB Data Platform Project
 
 This is a web application development project completed as part of the CIS 4339 course. The project focuses on enhancing an existing application used by a Houston-area non-profit organization to improve its operations, resource planning, and user experience.
 
