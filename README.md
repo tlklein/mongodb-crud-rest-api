@@ -1,37 +1,59 @@
 # Data Platform Project
 
-This project uses NodeJS, VUEJS and MongoDB. This is a summary of the project description. 
+This is a web application development project completed as part of the CIS 4339 course. The project focuses on enhancing an existing application used by a Houston-area non-profit organization to improve its operations, resource planning, and user experience.
 
-Project Goal: The project aims to expand an existing web application by adding new features and improving documentation. ​ The application follows a MEVN stack architecture (MongoDB, Express, VueJS, Node) and is a prototype implementation. ​
+## Project Overview
+The application, originally developed by previous students, is a data platform used by Community Health Workers (CHWs) to organize events, collect client data, and facilitate sign-ups for various services. This project expands upon the existing codebase by introducing new features and refining the application for better maintainability and usability.
+Key technologies: **MEVN Stack** (MongoDB, Express, Vue.js, Node.js).
 
-Background: The application is a basic data platform developed for a non-profit organization in the Houston area. ​It is used by Community Health Workers (CHWs) to help clients with basic needs. ​ The application allows CHWs to enter client information, create events, and sign up clients for events. ​ The data for all organizations is stored in a single database, with each organization having its own instance of the application. ​
+## Scope and Features
 
-Requirements:
-- Update the code from Options API to Composition API. ​
-- Add user login capabilities with different roles (viewers and editors). ​
-- Implement CRUD functionality for services at the data layer. ​
-- Extend the dashboard page with a pie or doughnut chart showing clients by zip code. ​
+### Key Enhancements
+1. **Transition to the Composition API**:
+   - Refactor the codebase from the Vue Options API to the Composition API for improved maintainability and code organization.
+2. **User Authentication and Role-Based Access Control**:
+   - Implement secure login functionality with hashed password storage.
+   - Role-based access control for two roles: Viewers and Editors.
+   - Tailor UI to dynamically display options based on user roles.
+3. **Integration of Services at the Data Layer**:
+   - Add CRUD functionality for managing event services.
+   - Replace hardcoded service data with a dynamic system.
+   - Extend API endpoints for real-time service updates.
+4. **Dashboard Enhancement with Visualization**:
+   - Add Pie or Doughnut charts to visualize client distribution by zip code.
+   - Dynamically fetch and display data from API endpoints.
 
-Sprints:
-- Sprint 1: Create a Functional Specification Document 
-- Sprint 2: Implement new features in the frontend using VueJS 
-- Sprint 3: Expand the backend API, document the API, and create a presentation 
-- Sprint 4: Peer evaluation of classmates' projects
+## Deliverables
+
+### Functional Deliverables
+- Secure user authentication and authorization.
+- Service management features for CRUD operations.
+- Enhanced dashboard with dynamic data visualization.
+
+### UI Deliverables
+- User-friendly login page and navigation elements.
+- Service management pages with intuitive forms.
+- Chart components for dashboard visualization.
+
+### Documentation
+- Use case diagrams for core features.
+- User flow diagrams for authentication and event services.
+- Timeline and project schedule for development milestones.
 
 ## Team Members
 The current iteration is based on development done by:
 * Joanna Macedo, Trinity Klein, and Maria Abejide in Spring 2024
 * Jeremy Griffith and Edwin Charly in Spring of 2023
-* Elliot Farmer Garcia, Agatha	Molski and Chris Blanco in Fall of 2022.
+* Elliot Farmer Garcia, Agatha	Molski, and Chris Blanco in the Fall of 2022.
 
 
-# Data Platform Project Setup
+## Data Platform Project Setup
 
-## Backend Node Application
+### Backend Node Application
 ```
 cd backend
 ```
-Follow instructions in backend README for setup and running as a local instance.
+Follow instructions in the backend README for setup and running as a local instance.
 
 ## Frontend Vue 3 Application
 ```
@@ -40,10 +62,22 @@ cd frontend
 Follow instructions in frontend README for setup and running as a local instance.
 
 
-# References
-1. Claude Ai
-- https://claude.ai/
+## Getting Started
 
-2. Chat Gpt
-- https://chat.openai.com/
+1. **Technologies**:
+   - Familiarity with Vue.js, especially the Composition API.
+   - Understanding of full-stack development with MEVN.
+2. **Setup**:
+   - Follow instructions in frontend README for setup and running as a local instance.
+   - Follow instructions in the backend README for setup and running as a local instance.
+
+## About the Project
+
+This project was completed collaboratively by **Joanna Macedo**, **Trinity Klein**, and **Maria Abejide** for the CIS 4339 course at the University of Houston under the guidance of **Professor Xuqing Wu**.
+
+The document outlines the steps taken to transition, enhance, and integrate features that improve the application's scalability, maintainability, and user experience.
+
+---
+
+Feel free to contribute, provide feedback, or discuss improvements!
 
