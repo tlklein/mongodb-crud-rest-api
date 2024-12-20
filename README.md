@@ -2,7 +2,8 @@
 
 # MongoDB Data Platform Project
 
-This is a web application development project completed as part of the CIS 4339 course. The project focuses on enhancing an existing application used by a Houston-area non-profit organization to improve its operations, resource planning, and user experience.
+This is a web application development project completed as part of the CIS 4339 course. The project focuses on enhancing an existing application used by a Houston-area non-profit organization to improve its operations, resource planning, and user experience. The document outlines the steps taken to transition, enhance, and integrate features that improve the application's scalability, maintainability, and user experience.
+
 
 ## Project Overview
 The application, originally developed by previous students, is a data platform used by Community Health Workers (CHWs) to organize events, collect client data, and facilitate sign-ups for various services. This project expands upon the existing codebase by introducing new features and refining the application for better maintainability and usability.
@@ -72,8 +73,6 @@ Follow instructions in frontend README for setup and running as a local instance
 ## About the Project
 
 This project was completed collaboratively by **Joanna Macedo**, **Trinity Klein**, and **Maria Abejide** for the CIS 4339 course at the University of Houston under the guidance of **Professor Xuqing Wu**.
-
-The document outlines the steps taken to transition, enhance, and integrate features that improve the application's scalability, maintainability, and user experience.
 
 ---
 
